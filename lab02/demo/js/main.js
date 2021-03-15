@@ -80,4 +80,7 @@ case 'n':
   alert('NOOOO!');
   console.log(car);
   break;
+default:
+  console.log('default');
+  alert('default');
 } 
